@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         Log.d("life_cycle","onCreate")
     }
-    override fun onStart() {
+    override fun onStart() { 
         super.onStart()
         Log.d("life_cycle","onStart")
     }
