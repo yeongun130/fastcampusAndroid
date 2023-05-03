@@ -9,7 +9,7 @@
 
     <TextView
         android:text="@string/hi"
-        android:id="@+id/txt_hello"
+        android:id="@+id/txt_hello" 
         android:layout_width="100dp" 
         android:layout_height="100dp"/>
 
